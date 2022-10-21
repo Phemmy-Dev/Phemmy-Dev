@@ -2,7 +2,7 @@
 
 `Frontend Developer & Web3 Enthusiast`
 
-I'm a creative Front-end developer with over 3 years of experience. I build mobile responsive, optimized and accessible websites. I'm also knowledgeable in user interface, testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.
+I'm a creative Front-end developer with over 3 years of experience. I build mobile responsive, optimized and accessible websites. I'm also knowledgeable in user interface, testing, and debugggging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.
 
 ### Connect With Me:
 <a href="https://www.linkedin.com/in/oluwafemi-akinruntan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/Iam_phemmyy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
