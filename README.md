@@ -28,11 +28,7 @@ I'm a creative Front-end developer with over 3 years of experience. I build mobi
 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phemmy-Dev&langs_count=5&theme=tokyonight">
 </a>
 
-<a href="https://github.com/Phemmy-Dev">
-<img alt="Most Used Languages" src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fwhite-scary-ghost-isolated_1308-77581.jpg%3Fw%3D2000&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fghost-drawing&tbnid=ZmEjM55-J379UM&vet=12ahUKEwjkhLKY38n8AhWauCcCHe93AwQQMygJegUIARChAQ..i&docid=RI_c6S4RUpjl7M&w=1948&h=2000&q=ghost%20pictures&ved=2ahUKEwjkhLKY38n8AhWauCcCHe93AwQQMygJegUIARChAQ](https://s26162.pcdn.co/wp-content/uploads/2019/11/Momo.jpg)">
-</a>
-
-## Streak Stats
+## Streak Stats 😄
 
 <a href="https://github.com/Phemmy-Dev">
 <img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=Phemmy-Dev&theme=dark">
