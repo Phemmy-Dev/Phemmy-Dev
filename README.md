@@ -22,11 +22,6 @@ I'm a creative Front-end developer with over 3 years of experience. I build mobi
  </p>
 
 
-## Most Used Languages
-  
- <a href="https://github.com/Phemmy-Dev">
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phemmy-Dev&langs_count=5&theme=tokyonight">
-</a>
 
 ## Streak Stats 😄
 
