@@ -29,7 +29,7 @@ I'm a creative Front-end developer with over 3 years of experience. I build mobi
 <img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=Phemmy-Dev&theme=dark">
 </a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phemmy-Dev&show_icons=true)
 #### [📩 Hire Me](mailto:oluwafemiakinruntan1@gmail.com)
 
 
