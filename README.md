@@ -23,7 +23,7 @@ I'm a creative Front-end developer with over 3 years of experience. I build mobi
 
 
 
-## Streak Stats 😄
+## Streak Statss 😄
 
 <a href="https://github.com/Phemmy-Dev">
 <img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=Phemmy-Dev&theme=dark">
